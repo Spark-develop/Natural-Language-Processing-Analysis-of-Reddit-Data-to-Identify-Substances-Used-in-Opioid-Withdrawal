@@ -1,0 +1,6 @@
+, ,RoBERTa
+0,Precision,60%
+1,Recall,47%
+2,F1-Score,53%
+3,Test-Accuracy,96%
+4,Test-Loss,14%
